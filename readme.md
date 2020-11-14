@@ -1,4 +1,4 @@
-# Quora Querstuion Pairs Analysis
+# Quora Question Pairs Analysis
 
 This is an analysis for the Kaggle Competition for building a machine learning model that predicts duplicate questions asked on Quora.
 
